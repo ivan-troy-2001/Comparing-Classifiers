@@ -8,7 +8,10 @@ In this practical application, the goal is to compare the performance of the cla
 The dataset comes from the UCI Machine Learning repository [link](https://archive.ics.uci.edu/ml/datasets/bank+marketing). The data is from a Portuguese banking institution and is a collection of the results of multiple marketing campaigns.
 
 ### Deliverables:
-Jupiter notebook [link](https://github.com/ivan-troy-2001/Comparing-Classifiers/blob/main/prompt_III.ipynb).
+* Jupiter notebook: [prompt_III.ipynb](https://github.com/ivan-troy-2001/Comparing-Classifiers/blob/main/prompt_III.ipynb).
+
+### Author
+* [Ivan Santaella Martinez](mailto:itsantaella@gmail.com)
 
 ### Results
 
